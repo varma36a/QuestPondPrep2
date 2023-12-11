@@ -1,0 +1,14 @@
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/bin/Debug/net7.0/CSharpBasic
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/bin/Debug/net7.0/CSharpBasic.deps.json
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/bin/Debug/net7.0/CSharpBasic.runtimeconfig.json
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/bin/Debug/net7.0/CSharpBasic.dll
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/bin/Debug/net7.0/CSharpBasic.pdb
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/obj/Debug/net7.0/CSharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/obj/Debug/net7.0/CSharpBasic.AssemblyInfoInputs.cache
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/obj/Debug/net7.0/CSharpBasic.AssemblyInfo.cs
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/obj/Debug/net7.0/CSharpBasic.csproj.CoreCompileInputs.cache
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/obj/Debug/net7.0/CSharpBasic.dll
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/obj/Debug/net7.0/refint/CSharpBasic.dll
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/obj/Debug/net7.0/CSharpBasic.pdb
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/obj/Debug/net7.0/CSharpBasic.genruntimeconfig.cache
+/Users/RohithGVMac/QuestPond1/QuestPondPrep2/CSharpBasic/obj/Debug/net7.0/ref/CSharpBasic.dll
